@@ -1,0 +1,25 @@
+body {
+  background-color: #fffff;
+  text-align: center;
+}
+img {
+  border-radius: 90% 90% 90% 40%;
+  float: left;
+}
+h3 {
+  text-align: justify;
+  text-decoration: lightgray;
+}
+ul {
+  text-align: justify;
+}
+.cor1 {
+  background-color: #cad2c5;
+  height: 320px;
+}
+.cor2 {
+  background-color: #84a98c;
+}
+.cor3 {
+  background-color: #52796f;
+}
